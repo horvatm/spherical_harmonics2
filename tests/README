@@ -1,0 +1,13 @@
+Here we check the routines for generating spherical harmonics.
+
+
+To run tests/checks do:
+
+  make
+  bash run_test.sh
+
+Correct values were generated with mathematica notebook
+
+  gen_spher_harm.nb
+
+and stored in Y_n100.dat and gzipped into Y_n100.dat.gz
